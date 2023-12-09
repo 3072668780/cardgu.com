@@ -8,7 +8,7 @@
     <link href="/2023/12/06/One-Post/"/>
     <url>/2023/12/06/One-Post/</url>
     
-    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">许多太阳挂在天上<br></code></pre></td></tr></table></figure><div style="margin:40px"><img src = "https://s1.wzznft.com/i/2023/12/09/i775fz.png" width = "50%"><table frame=void><!--使用table标签，且frame=void消除外边框-->    <tr>   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->    <td><center><img src="https://s1.wzznft.com/i/2023/12/09/i775fz.png"                     alt="第一张图片显示不出时显示的文字"                     height="60"/></center></td><!--<center>标签将图片居中-->    <td><center><img src="https://free.wzznft.com/i/2023/12/09/m1oecc.jpg"                     alt="第二张图片显示不出时显示的文字"                     height="60"/></center></td>    </tr></table>]]></content>
+    <content type="html"><![CDATA[<p>​           许多太阳挂在天上</p><div style="margin:40px"><img src = "https://s1.wzznft.com/i/2023/12/09/i775fz.png" width = "50%">]]></content>
     
     
     
